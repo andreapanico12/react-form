@@ -7,5 +7,5 @@ Al submit del form, mostrare la lista degli articoli inseriti, con la possibilit
 
 ## BONUS:
 
-1.  ~~Implementare la funzionalità di modifica del titolo di un post.~~
+1.  Implementare la funzionalità di modifica del titolo di un post.
 2.  Aggiungere più campi al form (ad es. lo stato di un articolo - draft, published - o l’autore)

@@ -2,9 +2,13 @@ import { useState } from 'react'
 import BlogForm from './assets/components/BlogForm'
 
 const App = () => {
-  <>
-  <BlogForm/>
-  </>
+  
+  return(
+    <>
+    <BlogForm/>
+    </>
+  )
+
 }
 
 export default App
